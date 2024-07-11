@@ -1,12 +1,12 @@
 # Preview of project
 
-![Alt text](https://github.com/Nishant5789/My_Tech_Notes/asset/chatlogin.png)
+![Alt text](https://cdn.jsdelivr.net/gh/Nishant5789/My_Tech_Notes/asset/chatlogin.png)
 
-![Alt text](https://github.com/Nishant5789/My_Tech_Notes/asset/chathome.png)
+![Alt text](https://cdn.jsdelivr.net/gh/Nishant5789/My_Tech_Notes/asset/chathome.png)
 
-![Alt text](https://github.com/Nishant5789/My_Tech_Notes/asset/chatdp.png)
+![Alt text](https://cdn.jsdelivr.net/gh/Nishant5789/My_Tech_Notes/asset/chatdp.png)
 
-![Alt text](https://github.com/Nishant5789/My_Tech_Notes/asset/chatcomponent.png)
+![Alt text](https://cdn.jsdelivr.net/gh/Nishant5789/My_Tech_Notes/asset/chatcomponent.png)
 
 # Getting Started with Create React App
 
